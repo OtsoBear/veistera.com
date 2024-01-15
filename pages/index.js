@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-        <code> Under construction</code>
+        <code>Under construction</code>
         </p>
 
         {/* Video Element */}
