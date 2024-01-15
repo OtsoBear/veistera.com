@@ -18,7 +18,6 @@ export default function Home() {
 
         {/* Video Element */}
         <video
-          controls
           autoPlay
           loop
           muted
