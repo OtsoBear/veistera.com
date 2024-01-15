@@ -28,7 +28,7 @@ export default function Home() {
           Construction is in progress.
         </video>
       </main>
-
+    <Footer />
     </div>
   );
 }
