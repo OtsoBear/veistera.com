@@ -1,9 +1,9 @@
-// pages/Page2.js
+// pages/otso.js
 import Head from 'next/head';
 import Header from '@components/header';
 import Footer from '@components/Footer';
 
-const Page2 = () => {
+const otso = () => {
   return (
     <div className="container">
       <Head>
@@ -26,4 +26,4 @@ const Page2 = () => {
   );
 };
 
-export default Page2;
+export default otso;
