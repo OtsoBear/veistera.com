@@ -4,3 +4,9 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+[[redirects]]
+  from = "otso.veistera.com"
+  to = "https://65ad7ebdcbe9c400086176bc--radiant-kangaroo-8d8e74.netlify.app/otso"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+
